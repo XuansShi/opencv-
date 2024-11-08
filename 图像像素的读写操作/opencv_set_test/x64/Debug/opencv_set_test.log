@@ -1,0 +1,4 @@
+﻿  quickdemo.cpp
+  test.cpp
+D:\github shangchuancode\XuanShi1\图像像素的读写操作\quickdemo.cpp(22,17): error C2511: “void QuickDemo::mat_creation_demo(cv::Mat &)”:“QuickDemo”中没有找到重载的成员函数
+  正在生成代码...
