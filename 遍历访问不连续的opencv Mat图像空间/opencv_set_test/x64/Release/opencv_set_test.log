@@ -1,10 +1,9 @@
-﻿  quickdemo.cpp
-  test.cpp
+﻿  test.cpp
 D:\github shangchuancode\XuanShi1\遍历访问不连续的opencv Mat图像空间\test.cpp(24,53): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
 D:\github shangchuancode\XuanShi1\遍历访问不连续的opencv Mat图像空间\test.cpp(44,12): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
   正在生成代码
-  77 of 80 functions (96.2%) were compiled, the rest were copied from previous compilation.
-    12 functions were new in current compilation
-    1 functions had inline decision re-evaluated but remain unchanged
+  0 of 80 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
   已完成代码的生成
   opencv_set_test.vcxproj -> D:\github shangchuancode\XuanShi1\遍历访问不连续的opencv Mat图像空间\x64\Release\opencv_set_test.exe
