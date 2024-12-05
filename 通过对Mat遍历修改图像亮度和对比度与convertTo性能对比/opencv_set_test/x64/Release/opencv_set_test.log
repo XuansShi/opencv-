@@ -1,0 +1,8 @@
+﻿  test.cpp
+D:\github shangchuancode\XuanShi1\B站网课代码\网课3-70个项目\通过对Mat遍历修改图像亮度和对比度与convertTo性能对比\test.cpp(23,54): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  正在生成代码
+  1 of 88 functions ( 1.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opencv_set_test.vcxproj -> D:\github shangchuancode\XuanShi1\B站网课代码\网课3-70个项目\通过对Mat遍历修改图像亮度和对比度与convertTo性能对比\x64\Release\opencv_set_test.exe
