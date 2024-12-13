@@ -1,0 +1,9 @@
+﻿  quickdemo.cpp
+  test.cpp
+D:\github shangchuancode\XuanShi1\B站网课代码\网课3-70个项目\图像旋转和镜像70-25\test.cpp(24,54): warning C4244: “=”: 从“double”转换到“__int64”，可能丢失数据
+  正在生成代码
+  68 of 71 functions (95.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  opencv_set_test.vcxproj -> D:\github shangchuancode\XuanShi1\B站网课代码\网课3-70个项目\图像旋转和镜像70-25\x64\Release\opencv_set_test.exe
